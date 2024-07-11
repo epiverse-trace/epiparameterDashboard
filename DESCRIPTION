@@ -3,7 +3,7 @@ Title: Explore the database of epidemiological parameters provided by the epipar
 Version: 0.0.1.9999
 Authors@R: c(
     person("James M.", "Azam", , "james.azam@lshtm.ac.uk", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0001-5782-7330"))
+           comment = c(ORCID = "0000-0001-5782-7330")))
 Description: Explore the database of epidemiological parameters provided by the epiparameter and epireview R packages
 License: MIT + file LICENSE
 Suggests: 
