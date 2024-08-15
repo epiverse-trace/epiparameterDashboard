@@ -1,6 +1,6 @@
 Package: epiparameterDashboard
 Title: Explore the database of epidemiological parameters provided by the epiparameter and epireview R packages
-Version: 0.0.1.9999
+Version: 0.0.0.9000
 Authors@R: c(
     person("James M.", "Azam", , "james.azam@lshtm.ac.uk", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-5782-7330")))
