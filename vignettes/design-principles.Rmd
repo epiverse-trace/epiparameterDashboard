@@ -2,7 +2,7 @@
 title: "Design Principles for {epiparameterDashboard}"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Design Principles for {epiparameterDashboard}
+  %\VignetteIndexEntry{Design Principles for {epiparameterDashboard}}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
