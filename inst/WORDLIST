@@ -1,5 +1,8 @@
+CFR
 CMD
 Codecov
+DT
+Epireview
 Epiverse
 Lifecycle
 ORCID
@@ -8,12 +11,13 @@ codecov
 com
 epiparameter
 epireview
+etc
+flexdashboard
 gh
 github
 io
 lifecycle
 packagename
-packagetemplate
+plotly
 svg
-tidyverse
 yaml
