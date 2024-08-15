@@ -1,3 +1,3 @@
-# 0.0.0.9000
+# epiparameterDashboard 0.0.0.9000
 
 * Development version of epiparameterDashboard.
